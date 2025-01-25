@@ -25,8 +25,7 @@ This project aims to predict the likelihood of diabetes in patients using machin
 - The model achieved an accuracy score of 0.81 on the test dataset, demonstrating strong predictive performance.
 - Key features such as glucose levels and BMI were identified as critical indicators for diabetes prediction.
 
-
-![image](https://github.com/user-attachments/assets/6351717e-80d5-49f0-9c82-7b44386c49a3)
+![!\[alt text\](image.png)](assets/image.png)
 
 ---
 
